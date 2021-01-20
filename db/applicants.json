@@ -1,0 +1,82 @@
+{
+  "applicants": [
+    {
+      "firstName": "Friedrich",
+      "lastName": "Heinrich",
+      "phoneNumber": "+49 146 344 23811",
+      "email": "Friedrich.heinrich@gmail.com",
+      "statusType": "Appointment_Set",
+      "status": "APPOINTMENT"
+    },
+    {
+      "firstName": "Hans",
+      "lastName": "Ulrich",
+      "phoneNumber": "+49 146 344 23811",
+      "email": "Hans-Ulrichh@gmail.com",
+      "statusType": "Appointment_Set",
+      "status": "APPOINTMENT"
+    },
+    {
+      "firstName": "Karlheinz",
+      "lastName": "Brandenburg",
+      "phoneNumber": "+49 146 344 23811",
+      "email": "karlheinzbrandenburg@gmail.com",
+      "statusType": "Appointment_Set",
+      "status": "APPOINTMENT"
+    },
+    {
+      "firstName": "Maxmillian",
+      "lastName": "Mustermann",
+      "phoneNumber": "+49 146 344 23811",
+      "email": "max.mustermann@gmail.com",
+      "statusType": "Property_Viewed",
+      "status": "VIEWED",
+      "bid": "250.000"
+    },
+    {
+      "firstName": "Bernhard",
+      "lastName": "Weiß",
+      "phoneNumber": "+49 146 344 23811",
+      "email": "bernhard.weiß@gmail.com",
+      "statusType": "Property_Viewed",
+      "status": "VIEWED",
+      "bid": "250.000"
+    },
+    {
+      "firstName": "Hansjörg",
+      "lastName": "Felmy",
+      "phoneNumber": "+49 146 344 23811",
+      "email": "Hansjörg.felmy@gmail.com",
+      "statusType": "Property_Viewed",
+      "status": "VIEWED",
+      "bid": "250.000"
+    },
+    {
+      "firstName": "Gottschalk",
+      "lastName": "Godeslack",
+      "phoneNumber": "+49 146 344 23811",
+      "email": "gottschalk.godeslack@gmail.com",
+      "statusType": "Property_Viewed",
+      "status": "VIEWED",
+      "bid": "250.000"
+    },
+    {
+      "firstName": "Ekkehard",
+      "lastName": "Hardy",
+      "phoneNumber": "+49 146 344 23811",
+      "email": "ekkehard.hardy@gmail.com",
+      "statusType": "Property_Viewed",
+      "status": "VIEWED",
+      "bid": "350.000"
+    },
+    {
+      "firstName": "Maxwell",
+      "lastName": "Lindemann",
+      "phoneNumber": "+49 146 344 23811",
+      "email": "maxwell.lindemann@gmail.com",
+      "statusType": "Interested",
+      "status": "INTERESTED",
+      "bid": "350.000"
+    }
+  ]
+}
