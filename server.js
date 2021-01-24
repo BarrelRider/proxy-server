@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
   res.redirect('/api');
 });
 
-app.use(cors(ü));
+app.use(cors());
 app.use(bodyParser.json());
 app.use('/api', pagesRoutes);
 
