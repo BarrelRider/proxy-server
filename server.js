@@ -12,7 +12,7 @@ let corsOptions = {
 
 app.get('/', (req, res) => {
   var result = "App Running";
-  res.send(result);
+  res.redirect('/api/page');
 });
 
 app.use(cors(corsOptions));
