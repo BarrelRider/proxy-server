@@ -6,16 +6,11 @@ const pagesRoutes = require("./routes/pages.routes");
 
 const app = express();
 
-let corsOptions = {
-  origin: "http://localhost:8080",
-};
-
 app.get('/', (req, res) => {
-  var result = "App Running";
-  res.redirect('/api/page');
+  res.redirect('/api');
 });
 
-app.use(cors(corsOptions));
+app.use(cors(ü));
 app.use(bodyParser.json());
 app.use('/api', pagesRoutes);
 
